@@ -1,2 +1,2 @@
 # firstrepo
-my first demo
+my first program
